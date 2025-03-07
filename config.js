@@ -8,27 +8,10 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['573177565273', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['593968585283'],
-  ['5219993404349'],
-  ['584125778026'],
-  ['5219991402134'],
-  ['5492266466080'],
-  ['5219996125657'],
-  ['5492266613038'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['595975740803'], 
-  ['595992611272'],
-  ['393755775755','💫 Mystic - Tester Fabri115💫', true]
+  ['5215641961070', '👑 Mystic - Creador 👑', true],
+  ['5219531627349', '💫 Mystic - Collaborator 1 💫', true],
+  ['5219533210535', '💫 Mystic - Collaborator 2 💫', true],
+  ['5219531496444','💫 Mystic - Tester Fabri115💫', true]
 ];
 
 global.suittag = ['5219993404349'];
