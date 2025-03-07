@@ -35,7 +35,7 @@
     "@hapi/boom": "^10.0.1",
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "v6.7.7",
+     "@whiskeysockets/baileys": "6.7.9",
     "@xct007/frieren-scraper": "*",
     "@xct007/tiktok-scraper": "*",
     "acrcloud": "^1.4.0",
